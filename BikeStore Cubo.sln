@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "BikeStore Cubo", "BikeStore Cubo.dwproj", "{B71DB56F-5B8B-4DCA-9969-EF9078D2D7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B71DB56F-5B8B-4DCA-9969-EF9078D2D7CA}.Development|Default.ActiveCfg = Development
+		{B71DB56F-5B8B-4DCA-9969-EF9078D2D7CA}.Development|Default.Build.0 = Development
+		{B71DB56F-5B8B-4DCA-9969-EF9078D2D7CA}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {724E4B9A-A716-446B-84F1-44EEB1AE10F1}
+	EndGlobalSection
+EndGlobal
