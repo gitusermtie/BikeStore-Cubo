@@ -17,6 +17,16 @@
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Cubo EPC.cube</Name>
+      <FullPath>Cubo EPC.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>Cubo EPC.partitions</Name>
+          <FullPath>Cubo EPC.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>
@@ -46,6 +56,18 @@
     <ProjectItem>
       <Name>DIM Gastos Store.dim</Name>
       <FullPath>DIM Gastos Store.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM FECHA.dim</Name>
+      <FullPath>DIM FECHA.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM Stores.dim</Name>
+      <FullPath>DIM Stores.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM Customers.dim</Name>
+      <FullPath>DIM Customers.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>
